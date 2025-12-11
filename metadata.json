@@ -1,0 +1,5 @@
+{
+  "name": "GeoGuessr AI Explainer",
+  "description": "上传街景图片，让 Gemini 3 Pro 分析位置，解释视觉线索并在地图上标记。",
+  "requestFramePermissions": []
+}
